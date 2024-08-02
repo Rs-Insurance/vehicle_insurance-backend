@@ -1,0 +1,15 @@
+com\ramanasoft\www\service\PaymentService.class
+com\ramanasoft\www\mode\Customer.class
+com\ramanasoft\www\service\InvoiceService.class
+com\ramanasoft\www\controller\CustomerController.class
+com\ramanasoft\www\service\VehicleService.class
+com\ramanasoft\www\repository\CustomerRepository.class
+com\ramanasoft\www\mode\Vehicle.class
+com\ramanasoft\www\mode\Payment.class
+com\ramanasoft\www\repository\PaymentRepository.class
+com\ramanasoft\www\repository\VehicleRepository.class
+com\ramanasoft\www\controller\VehicleController.class
+com\ramanasoft\www\controller\PaymentController.class
+com\ramanasoft\www\VehicleInsuranceProjectApplication.class
+com\ramanasoft\www\service\Otps.class
+com\ramanasoft\www\service\CustomerService.class
